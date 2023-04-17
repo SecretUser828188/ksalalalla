@@ -1,0 +1,3 @@
+game:GetService("Players").LocalPlayer.Guts.Value = math.huge
+
+game:GetService("Players").LocalPlayer.Lives.Value = math.huge
